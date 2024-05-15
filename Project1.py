@@ -28,3 +28,5 @@ index_data = {
 # DataFrame 생성 및 출력
 df = pd.DataFrame(index_data, index=['코스피', '코스닥', '나스닥', 'S&P500'])
 df
+
+#새로 추가
